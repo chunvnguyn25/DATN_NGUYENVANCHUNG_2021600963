@@ -29,7 +29,7 @@
 ## Run Locally
 
 ```bash
-  git clone https://github.com/aleevan2812/DATN-Manage-Restaurant-Backend
+  git clone https://github.com/chunvnguyn25/DATN_NGUYENVANCHUNG_2021600963
   dotnet run
 ```
 
