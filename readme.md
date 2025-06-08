@@ -22,10 +22,6 @@
 - Khách hàng: đăng ký tài khoản, quét mã QR đặt món ăn.
 - Upload hình ảnh liên quan.
 
-## Demo
-
-![App Screenshot](./docs/api.png)
-
 ## Run Locally
 
 ```bash
