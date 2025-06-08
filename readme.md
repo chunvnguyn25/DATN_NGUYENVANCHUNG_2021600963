@@ -1,6 +1,6 @@
 # Đồ án tốt nghiệp
 
-Đề tài: Phát triển ứng dụng web đặt đồ ăn cho nhà hàng sử dụng Next.js và .Net Core
+Đề tài: Phát triển ứng dụng web cho nhà hàng Yaya
 
 ## Tech Stack
 
