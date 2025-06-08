@@ -32,7 +32,11 @@
   git clone https://github.com/chunvnguyn25/DATN_NGUYENVANCHUNG_2021600963
   dotnet run
 ```
+## Clone the frontend project
 
+  git clone https://github.com/chunvnguyn25/DATN_NGUYENVANCHUNG_2021600963_Frontend
+  npm install
+  npm run dev
 ## Related
 
 Here are some related projects
